@@ -1,0 +1,5 @@
+{
+  "name": "GR Lens | Ricoh Recipe Generator",
+  "description": "An AI-powered tool that generates custom Ricoh GR III/x film simulation recipes and shooting parameters based on scene descriptions.",
+  "requestFramePermissions": []
+}
